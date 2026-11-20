@@ -1,0 +1,11 @@
+{
+  "name": "pomerado",
+  "version": "1.0.0",
+  "description": "Connect your agents to any website. The cheaper, faster, and more reliable alternative to browser use.",
+  "mcpServers": {
+    "pomerado": {
+      "url": "https://mcp.pomerado.ai/mcp",
+      "type": "http"
+    }
+  }
+}
